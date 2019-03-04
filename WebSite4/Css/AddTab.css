@@ -1,0 +1,59 @@
+﻿#B_Border
+{ width:893px; 
+height:21px; background:url(../images/AddTabBg.jpg); border-bottom:solid 1px #80ab73; color:#3f6445; padding-top:15px; font-weight:bold; padding-left:20px
+}
+
+#border
+{ width:1000px; border:solid 1px #80ab73; margin:0px auto; overflow:hidden}
+
+.AddTable
+{ border-collapse:collapse; width:1004px; 
+margin:20px auto; 
+color:#3f6445; }
+
+.AddTable tr td
+{ border:solid 1px #80ab73; text-align:left; padding-left:5px}
+
+.col1
+{ text-align:center; height:30px; overflow:hidden
+}
+
+.col2
+{ width:320px; text-align:center; height:30px}
+
+.col3
+{ width:50px; text-align:center}
+
+.col4
+{ width:250px; text-align:center}
+
+.col5
+{ widows:600px; text-align:center; height:30px}
+
+.btn
+{ text-align:center; height:40px;}
+
+.title
+{ text-align:left; padding-left:20px; height:40px; font-weight:bold; font-size:14px; margin:0px; filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#ecf2e8', endColorStr=#FFFFFF'', gradientType='0')}
+
+.col2 input[type="text"]
+{ width:300px; border:solid 1px #80ab73; color:#80ab73; }
+
+textarea
+{ width:95%}
+
+/*以下的可以删除*/
+.B_Border1
+{ width:760px; height:21px; background:url(../images/AddTabBg.jpg); border-bottom:solid 1px #80ab73; color:#3f6445; padding-top:15px; font-weight:bold; padding-left:20px}
+
+.border1
+{ width:760px; border:solid 1px #80ab73; margin:0px auto; overflow:hidden}
+
+.empty
+{ background:url(../images/empty.gif); width:19px; height:18px}
+
+.full
+{ background:url(../images/full.gif); width:19px; height:18px}
+
+.col6
+{ width:520px; text-align:center; height:30px}

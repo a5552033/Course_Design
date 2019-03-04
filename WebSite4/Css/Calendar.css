@@ -1,0 +1,14 @@
+﻿#Calendar td
+{ width:100px; text-align:center; border-width:0px}
+
+.weektr
+{background:url("../images/tab_05.gif"); height:30px}
+
+#Calendar
+{ margin-top:5px}
+
+.day
+{ width:94px; text-align:center; border:solid 1px #c0c0c0; height:50px; margin:2px; float:left}
+
+.day span
+{ font-weight:bold}

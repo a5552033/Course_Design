@@ -1,0 +1,35 @@
+﻿.L_Border
+{ width:100%; font-size:12px}
+
+.B_col1
+{ width:15px; height:30px}
+
+.B_col2 span
+{ color:royalblue; font-weight:bold; margin-left:10px}
+
+.B_col2
+{ background:url(../images/tab_05.gif);}
+
+.B_col3
+{ width:14px}
+
+.B_center1
+{ background:url(../images/tab_12.gif); width:9px; height:500px}
+
+.B_center3
+{ background:url(../images/tab_16.gif); width:9px}
+
+.B_Bottom
+{ background:url(../images/tab_21.gif)}
+
+#list
+{ border:solid 1px #c8d89a; width:100%; border-collapse:collapse}
+
+#list_Title
+{ background:url(../images/tab_14.gif); height:26px}
+
+#list td
+{ border:solid 1px #c8d89a; text-align:center; height:25px}
+
+.edit
+{ color:Red}
